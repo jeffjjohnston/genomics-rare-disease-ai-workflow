@@ -2,7 +2,13 @@
 
 This repo is an experimental agent-based workflow designed to search for disease-causing variants in a patient's genomic sequencing results based on a description of the patient's symptoms. 
 
-See my blog post, [Can an AI agent help diagnose genetic diseases?](https://jeffjjohnston.github.io/2025/07/20/genomics-ai-agent/) for additional discussion.
+See my blog posts for additional discussion:
+
+- [Can an AI agent help diagnose genetic diseases?](https://jeffjjohnston.github.io/2025/07/20/genomics-ai-agent/)
+- [Implementing the HPO Agent](https://jeffjjohnston.github.io/2025/08/07/hpo-agent/)
+- [Implementing the Gene Agent](https://jeffjjohnston.github.io/2025/08/18/gene-agent/)
+- [Implementing the Variant Agent: Part 1](https://jeffjjohnston.github.io/2025/08/24/variant-agent-part-1/)
+- [Implementing the Variant Agent: Part 2](https://jeffjjohnston.github.io/2025/09/01/variant-agent-part-2/)
 
 ## Getting started
 
