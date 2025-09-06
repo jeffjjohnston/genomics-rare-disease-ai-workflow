@@ -45,9 +45,10 @@ COPY --from=builder /opt/Nirvana /Nirvana
 WORKDIR /data
 ```
 
-Build the Docker image:
+Download `Nirvana-3.18.1-net6.0.zip` from the [Nirvana GitHub releases page](https://github.com/Illumina/Nirvana/releases). Build the Docker image:
 
 ```bash
+# ensure Nirvana-3.18.1-net6.0.zip is present alongside the Dockerfile
 docker build --platform=linux/amd64 . -t nirvana
 ```
 
