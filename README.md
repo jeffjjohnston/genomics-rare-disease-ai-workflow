@@ -55,7 +55,7 @@ For instructions on running Nirvana on a VCF, see [this guide](Nirvana_guide.md)
 
 ## Run the workflow
 
-First, describe your patient's symptoms in a plain text file (for example, `patient_symptomps.txt`).
+First, describe your patient's symptoms in a plain text file (for example, `patient_symptoms.txt`).
 
 Run the workflow:
 
